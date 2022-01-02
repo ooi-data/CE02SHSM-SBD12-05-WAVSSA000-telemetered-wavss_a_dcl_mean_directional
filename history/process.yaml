@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_mean_directional
 data_stream: CE02SHSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_mean_directional
 end_date: '2022-01-01T00:23:09.570Z'
-last_updated: '2022-01-02T02:28:51.819982Z'
+last_updated: '2022-01-02T02:33:37.072471'
 start_date: '2015-10-07T21:23:10.779Z'
-status: pending
+status: success
